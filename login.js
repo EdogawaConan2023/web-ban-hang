@@ -17,7 +17,3 @@ function loGin() {
     console.log("Bạn đã đăng nhập sai");
   }
 }
-
-ok;
-
-ok;
